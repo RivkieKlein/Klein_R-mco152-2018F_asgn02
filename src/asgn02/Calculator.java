@@ -25,6 +25,7 @@ public class Calculator {
 	public int getnum2() {
 		return num2;
 	}
+	//practice pulling from server to local
 }
 
 
